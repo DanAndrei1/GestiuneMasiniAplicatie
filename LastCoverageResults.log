@@ -1,0 +1,21 @@
+[2023-03-23 11:56:51] [info] Start Program:
+Path:"C:\Users\Danut\source\repos\GestiuneMasiniAplicatie\x64\Debug\GestiuneMasiniAplicatie.exe"
+Arguments:
+Working directory: "C:\Users\Danut\source\repos\GestiuneMasiniAplicatie\GestiuneMasiniAplicatie\"
+Modules: Selected: C:\Users\Danut\source\repos\GestiuneMasiniAplicatie\x64\Debug\GestiuneMasiniAplicatie.exe Excluded: 
+Sources: Selected: C:\Users\Danut\source\repos\GestiuneMasiniAplicatie\GestiuneMasiniAplicatie Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\Danut\AppData\Local\Temp\3g4mkfv2.30r 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2023-03-23 11:56:51] [info] Module: C:\Users\Danut\source\repos\GestiuneMasiniAplicatie\x64\Debug\GestiuneMasiniAplicatie.exe is selected because it matches selected pattern: C:\Users\Danut\source\repos\GestiuneMasiniAplicatie\x64\Debug\GestiuneMasiniAplicatie.exe
+[2023-03-23 11:56:51] [info] ----------------------------------------------------
+[2023-03-23 11:56:51] [info] Coverage binary generated in file: C:\Users\Danut\AppData\Local\Temp\3g4mkfv2.30r
+[2023-03-23 11:56:51] [info] ----------------------------------------------------
